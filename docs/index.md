@@ -8,12 +8,15 @@ Pour communiquer avec les représentants du CE ou du CCE, vous pouvez utiliser l
 * **[ParentsCCE@stanislas.qc.ca](mailto:ParentsCCE@stanislas.qc.ca)**
 * **[ParentsCE@stanislas.qc.ca](mailto:ParentsCE@stanislas.qc.ca)**
 
+Afin de recevoir facilement nos communications et mises à jour, vous pouvez vous inscrire à la liste **Stan Connect** [https://groups.google.com/g/stanconnect](https://groups.google.com/g/stanconnect).
+
+<!--
 Afin de recevoir facilement nos communications et mises à jour, vous pouvez vous inscrire aux listes de diffusion suivantes :
 
 * **CCE.stanislas** : [https://groups.google.com/g/ccestanislas](https://groups.google.com/g/ccestanislas)
 * **CE.stanislas** : [https://groups.google.com/g/cestanislas](https://groups.google.com/g/cestanislas)
-
 Une connexion avec un compte Google est nécessaire pour s’inscrire. Si vous rencontrez des difficultés, n’hésitez pas à me contacter et je pourrai vous assister.
+-->
 
 Pour toute question ou suggestion concernant ce site, vous pouvez me joindre à l’adresse suivante : **[mglt.biz@gmail.com](mailto:mglt.biz@gmail.com)**
 
