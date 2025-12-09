@@ -23,6 +23,6 @@ Pour toute question ou suggestion concernant ce site, vous pouvez me joindre à 
 Les ressources actuellement disponibles sont listées ci-dessous.
 * [Compte rendu des réunions 25/26](reunions25.html)
 * [Notes sur l'AEFE](aefe.html)
-* [Activités du Département des Mathématiques](maths/index.html)
+* [Activités du Département des Mathématiques](ddm/index.html)
 
 
