@@ -48,7 +48,7 @@ Le calendrier a été adopté en CCE, mais il reste non définitif. Il doit enco
 | Date(s)                                   | Événement                                     |
 | ----------------------------------------- | --------------------------------------------- |
 | **Vendredi 21 août 2026**                 | Journée pédagogique                           |
-| **Lundi 4 août 2026**                     | Rentrée scolaire                              |
+| **Lundi 4 septembre 2026**                     | Rentrée scolaire                              |
 | **Lundi 7 septembre 2026**                | Jour férié                                    |
 | **Lundi 12 octobre 2026**                 | Jour férié                                    |
 | **Vendredi 23 octobre 2026**              | Journée pédagogique                           |
