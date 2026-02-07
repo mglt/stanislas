@@ -7,6 +7,10 @@ layout: default
 
 Cette page rassemble mes notes personnelles issues de plusieurs réunions. Elles sont informelles et ne représentent en aucun cas des comptes rendus officiels.
 
+* 2026_02_05: Réunion CCE 
+* 2026_01_28: Réunion CE
+* 2026_01_21: Echange avec le CE/CCE vis à vis du calendrier scolaire
+* 2025_12_11: Présentation de la grille tarifaire
 * 2025_11_25: Réunion d'information MATH.en.JEANS (MeJ)
 * 2025_11_05: Représentant des parents aux conseils de classe (Visio) 
 * 2025_10_30: Réunion CCE
@@ -14,6 +18,230 @@ Cette page rassemble mes notes personnelles issues de plusieurs réunions. Elles
 * 2025_10_16: Réunion CE
 * 2025_10_16: Rencontre avec M. Raufast, Chef du secteur Amériques à l’AEFE
 
+
+## 2026_02_05: Réunion CCE 
+
+Le Comité consultatif d’établissement (CCE) s’est récemment réuni afin d’échanger sur plusieurs sujets structurants pour la vie de l’établissement. Nous souhaitions vous partager les principaux points d’information, dans un souci de transparence et de dialogue.
+
+*Éléments de continuité avec les précédents CCE*
+
+À la suite des échanges précédents, nous souhaitons apporter les précisions suivantes :
+
+* Les chiffres concernant le devenir des élèves après le baccalauréat ne sont pas encore disponibles. Ils feront l’objet d’une communication ultérieure.
+* La demande de publication d’un rapport financier détaillé n’a pas été formalisée lors de cette séance.
+  Toutefois, un rapport financier détaillé, incluant la répartition de la masse salariale entre personnel administratif et enseignant, est attendu et sera communiqué dès qu’il sera finalisé et validé.
+
+*1) Calendrier scolaire*
+
+Le calendrier scolaire repose sur les principes suivants :
+
+* 180 jours de classe répartis en 5 périodes de durée comparable
+* Un maximum de 900 heures d’enseignement en primaire
+* Prérentrée prévue après le 21 août
+* Fin de l’année scolaire avant le 23 juin
+* Alignement avec le calendrier des établissements français du Québec
+* Prise en compte des jours fériés et vacances scolaires québécoises
+
+Ce calendrier est globalement convergent avec celui du lycée Marie-de-France, à quelques ajustements près.
+Le calendrier a été adopté en CCE, mais il reste non définitif. Il doit encore être validé par les instances réglementaires.*
+
+| Date(s)                                   | Événement                                     |
+| ----------------------------------------- | --------------------------------------------- |
+| **Vendredi 21 août 2026**                 | Journée pédagogique                           |
+| **Lundi 4 août 2026**                     | Rentrée scolaire                              |
+| **Lundi 7 septembre 2026**                | Jour férié                                    |
+| **Lundi 12 octobre 2026**                 | Jour férié                                    |
+| **Vendredi 23 octobre 2026**              | Journée pédagogique                           |
+| **Du 24 octobre au 1er novembre 2026**    | Vacances d’automne                            |
+| **Du 19 décembre 2026 au 4 janvier 2027** | Vacances de Noël                              |
+|                                           | *(Reprise des cours le mardi 5 janvier 2027)* |
+| **Du 20 février au 7 mars 2027**          | Vacances d’hiver                              |
+| **Jeudi 25 mars 2027**                    | Journée pédagogique                           |
+| **Vendredi 26 mars 2027**                 | Jour férié                                    |
+| **Lundi 29 mars 2027**                    | Jour férié                                    |
+| **Du 24 avril au 2 mai 2027**             | Vacances de printemps                         |
+| **Lundi 24 mai 2027**                     | Jour férié                                    |
+| **Jeudi 24 juin 2027**                    | Jour férié et début des vacances d’été        |
+
+*2). Scolarité*
+
+*Prévisions d’effectifs*
+
+Les prévisions font état de l’arrivée de nouveaux élèves, avec une proportion d’élèves issus du réseau AEFE inférieure (environ 45 %) à celle observée certaines années précédentes.
+Les profils des élèves attendus restent comparables aux années antérieures.
+
+*Dispositif expérimental : Classes à horaires aménagés en mathématiques et sciences (4e – 3e)*
+
+Un dispositif expérimental est proposé en 4e et 3e, avec les objectifs suivants :
+
+1. Renforcer la culture scientifique et technologique des élèves
+2. Faire découvrir les métiers des sciences, des technologies, de l’ingénierie et des mathématiques
+3. Favoriser les échanges avec le monde de la recherche
+
+Organisation du dispositif:
+* 2 heures hebdomadaires
+* Parité filles / garçons recherchée
+* Équipe enseignante pluridisciplinaire
+* Travail autour de projets concrets (ex. : construction d’une station météo)
+
+Pour l’année scolaire 2026-2027, ce dispositif sera facturé comme une option parascolaire.
+
+Autres précisions:
+
+* L’option HLP (Humanités, Littérature et Philosophie) n’ouvre pas droit à une cote R, en raison d’un effectif insuffisant.
+* La sélection pour la CHAM mathématiques se fait sur la base d’une lettre de motivation, pour un groupe de 24 élèves.
+
+*3) Plan de lutte contre la violence et l’intimidation*
+
+Conformément aux exigences du ministère de l’Éducation du Québec :
+
+* Le plan a été présenté au CHSCS
+* Il a été validé par le Conseil d’administration du 16 décembre 2025
+* Une synthèse de deux pages est en cours de finalisation
+
+Ce document sera communiqué dès sa finalisation.
+
+*4) Points divers*
+
+Augmentation des prix de certaines options: Des questions ont été soulevées concernant l’augmentation de l’option latin (de 300 CAD à 600 CAD, avec un passage de 5 à 4 groupes). Ces points feront l’objet d’éclaircissements spécifiques.
+
+Fournitures scolaires: Les fournitures scolaires sont proposées via la « boutique scolaire » (Bureau en Gros), dont une partie des recettes est reversée à la Fondation.
+Les familles sont invitées à transmettre leurs retours à **Sandrine Kéroul** afin d’améliorer le dispositif.
+
+
+## 2026_01_28: Réunion CE
+
+*Activités parascolaires*
+
+Les inscriptions aux activités parascolaires se sont déroulées conformément aux modalités annoncées. Les inscriptions ouvrent officiellement à 18h. Une liste d’attente peut être accessible peu avant cette heure, mais aucune inscription définitive n’est possible avant 18h.
+
+À ce jour, environ la moitié des activités disposent encore de places disponibles. Nous encourageons les familles à consulter les offres en amont et à préparer plusieurs choix afin de faciliter l’inscription.
+
+Certaines activités sont limitées par des contraintes de ressources (espaces, encadrement). Par exemple, le multisport, très demandé, ne peut pas dépasser neuf groupes.
+
+Pour les activités comme les échecs, le judo ou la danse contemporaine, il n’existe pas de priorité pour les anciens élèves. Toutefois, jusqu’à présent, tous les élèves ont toujours pu être intégrés dans un groupe.
+
+*Projets pédagogiques au primaire*
+
+De nombreux projets enrichissent cette année le parcours des élèves du primaire :
+
+* Atelier philo (GS)
+* Projet de correspondance (CM1)
+* Petits champions de la lecture (CM1-CM2)
+* Projets autour du respect, de l’inclusion et de la diversité (CE1 à CM2)
+* Chorale (CP), ateliers danse (CE2), semaine des mathématiques (14 au 25 mars)
+* Projets citoyens et environnementaux : aéroponie, marché de Noël, *Ma petite planète*
+
+Ces projets contribuent au développement académique, culturel et citoyen des élèves.
+
+*Vêtements perdus*
+
+Un très grand nombre de vêtements oubliés est régulièrement retrouvé dans l’établissement. Afin de faciliter leur restitution, nous rappelons l’importance de **marquer les vêtements au nom des élèves**.
+
+Les vêtements non récupérés sont exposés pendant quelques jours, puis donnés à des organismes solidaires. Les uniformes Stan non récupérés sont confiés à la friperie.
+
+*Circulation et sécurité aux abords de l’école*
+
+Plusieurs points font l’objet d’échanges avec la mairie afin d’améliorer la sécurité :
+
+* La circulation sur le boulevard Dollar
+* Le stationnement rue MacEachran
+* Les conditions hivernales, notamment au parc Dandurand
+
+Des ajustements sont à l’étude afin d’améliorer la sécurité et la fluidité aux heures d’entrée et de sortie.
+
+*Homologation de l’établissement*
+
+L’établissement est engagé dans le processus régulier d’homologation par l’AEFE, garantissant la qualité de l’enseignement français de la maternelle à la terminale.
+
+Une visite d’inspection aura lieu d’ici la fin du mois de mars. À l’issue de cette visite, un rapport sera transmis au ministère de l’Éducation nationale.
+
+Climat scolaire et règlement intérieur
+
+Le règlement intérieur privilégie une approche éducative basée sur la prévention et le dialogue. Les situations de conflit sont prises en charge de manière progressive et adaptée.
+
+Nous rappelons que tout élève témoin d’une situation d’intimidation doit en informer un adulte de l’établissement.
+
+*Informations pratiques*
+
+* Les temps d’habillage et de déshabillage ont lieu sur le temps de récréation.
+* Le port du pantalon de neige est obligatoire en hiver.
+* Un échange linguistique est prévu pour les élèves de CM1-CM2, avec l’accueil d’élèves du Maine par des familles francophones.
+* Une intervention sur l’usage des écrans est prévue en CE1.
+* Les frais de scolarité connaissent une augmentation de 3 %, liée notamment à la baisse des subventions publiques.
+  
+## 2026_01_21: Echange avec le CE/CCE vis à vis du calendrier scolaire
+
+*Adoption du calendrier*
+
+Des échanges ont eu lieu avec le comité consultatif concernant le calendrier scolaire. Le calendrier définitif sera soumis pour adoption lors des conseils CE/CCE en février.
+
+*Cadre réglementaire (Québec)*
+
+Le calendrier respecte les contraintes réglementaires du Québec.
+Il comprend 180 jours de classe répartis en cinq périodes comparables.
+Le volume horaire annuel au primaire est compris entre 864 et 936 heures.
+La rentrée a lieu au plus tôt le 21 août.
+La fin de l’année scolaire est fixée au plus tard au 23 juin.
+Le calendrier est harmonisé avec celui des établissements français du Québec.
+Les jours fériés et les vacances scolaires du Québec sont pris en compte.
+
+*Organisation des périodes et des vacances*
+
+Les vacances de Noël sont prévues du 19 décembre au 3 janvier, sur deux semaines.
+Les périodes de cours durent entre 7 et 8 semaines.
+Les vacances d’hiver débutent le 20 février, avec une reprise des cours le 5 mars au matin.
+La première semaine de mars correspond aux vacances québécoises.
+Les vacances de printemps ont lieu lors de la dernière semaine d’avril.
+Les vacances d’automne sont fixées du 24 octobre au 2 novembre.
+Les journées pédagogiques sont prévues les 21 août, 2 novembre et 25 mars.
+
+*Principes d’organisation*
+
+Les journées pédagogiques sont évitées le lundi afin de limiter les interruptions de cours. Un compromis est recherché avec l’établissement Marie de France sur l’organisation des périodes. L’objectif est d’équilibrer les périodes avant et après Noël.
+
+*Avis des différents acteurs*
+
+Les enseignants souhaitent des vacances de Noël plus longues en raison des conseils de classe. Les enseignants de maternelle privilégient une première période plus longue. Les parents ont exprimé le souhait d’ajouter un jour de congé aux vacances de Noël.
+
+*Orientation retenue*
+
+À ce stade, la préférence est de maintenir les vacances d’automne du 24 octobre au 2 novembre.
+
+## 2025_12_11: Présentation de la grille tarifaire
+
+Une réunion d’information s’est tenue le 11 décembre afin de présenter l’évolution des frais de scolarité.
+La grille tarifaire a été présentée au comité exécutif de la corporation et validée le 16 décembre.
+Elle sera soumise au conseil d’administration la semaine prochaine et communiquée aux familles en janvier.
+
+*Contexte et contraintes externes*
+
+La prévision d’inflation est estimée à 2,3 %. Le financement du ministère québécois est en baisse, avec une réduction de 300 CAD par élève. Une contribution de l’AEFE de 300 CAD par élève est attendue, sous réserve de validation prochaine.
+
+*Contraintes internes*
+
+Une augmentation salariale du personnel d’environ 2 % est prévue en avril. Le recrutement des enseignants est impacté par les politiques d’immigration du Québec. Certains élèves pourront être admis mais ne pas être en mesure d’intégrer l’établissement immédiatement.
+
+*Situation financière et investissements*
+
+La trésorerie actuelle représente 35 jours d’actifs non affectés, contre une norme recommandée de 45 jours. Des investissements importants sont programmés sur le campus de Montréal. Un budget de plus de 3,5 millions CAD est prévu pour la rénovation des bâtiments en 2026–2027. Un investissement d’environ 1 million CAD est prévu pour la rénovation de l’infrastructure informatique et le développement du numérique pédagogique. Un plan de prévision des coûts d’entretien est en cours d’élaboration sur les dix prochaines années.
+
+*Évolution des frais de scolarité*
+
+Une augmentation moyenne de 3 % des frais de scolarité est proposée. Cette hausse représente environ 150 à 200 CAD selon les niveaux. En maternelle, l’augmentation se situe entre 330 et 494 CAD, soit environ 5 %. Malgré cette hausse, la marge financière de l’établissement reste très limitée.
+
+*Avantages liés à la fratrie*
+
+Les réductions pour fratrie sont revues à la baisse. La réduction est diminuée de 200 CAD pour le deuxième enfant. Une réduction de 5 % est appliquée pour le troisième enfant. Une réduction forfaitaire de 50 CAD est prévue pour le quatrième enfant.
+
+*Perspectives et stratégie à moyen terme*
+
+Les frais de scolarité ont augmenté d’environ 30 % au cours des dernières années. Un travail de planification budgétaire sur dix ans est engagé afin d’anticiper les évolutions futures. La stratégie du collège vise une augmentation progressive des frais afin d’éviter des hausses brutales. Des actions sont en cours auprès de l’AEFE, dont le conseil d’administration n’a pas encore eu lieu.
+
+*Services parascolaires et service de garde*
+
+Une réflexion est engagée sur les services parascolaires et le service de garde. Les décisions dépendront des prestataires disponibles et de la possibilité d’une gestion interne ou externalisée.
+Une augmentation des coûts du service de garde est à prévoir, notamment en raison de la hausse des salaires.
 
 ## 2025_11_25: Réunion d'information MATH.en.JEANS (MeJ)
 
