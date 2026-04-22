@@ -7,6 +7,7 @@ layout: default
 
 Cette page rassemble mes notes personnelles issues de plusieurs réunions. Elles sont informelles et ne représentent en aucun cas des comptes rendus officiels.
 
+* 2026_04_16: Réunion CCE 
 * 2026_02_05: Réunion CCE 
 * 2026_01_28: Réunion CE
 * 2026_01_21: Echange avec le CE/CCE vis à vis du calendrier scolaire
@@ -17,6 +18,58 @@ Cette page rassemble mes notes personnelles issues de plusieurs réunions. Elles
 * 2025_10: Point communication (Visio)
 * 2025_10_16: Réunion CE
 * 2025_10_16: Rencontre avec M. Raufast, Chef du secteur Amériques à l’AEFE
+
+## 2026_04_16: Réunion CCE 
+
+
+### 1. Adoption du compte rendu du 5 février 2026
+
+Le compte rendu du 5 février 2026 est adopté. Concernant la journée pédagogique, il est précisé que le syndicat n’a pas été en mesure de consulter ses membres dans les délais impartis. En conséquence, il s’est appuyé sur les dispositions de la convention collective.
+
+### 2. Homologation AEFE
+
+Une mission d’inspection a été réalisée par l’AEFE. Les 2 inspecteurs (1 pour le primaire et l’autre pour le collège) ont regardé l,enseignement du français, la politique linguistique (multi langues), les évaluations par examen, les locaux, les équipements, ont échangé avec les chefs de département, ont visité les classe et au vu des 50 établissements en Amérique du nord, ils ont relevé un niveau académique élevé, une bonne maîtrise des enseignements par le personnel et des pratiques pédagogiques adaptées. Des axes d’amélioration ont été identifiés, notamment en matière de parcours de santé, de parcours citoyens et de fonctionnement du conseil école-collège. L’établissement est conforme aux critères d’homologation. Le rapport a été transmis au ministère de l’Éducation nationale. Le renouvellement de l’homologation est attendu à l’été. La dernière visite datait d’il y a 7 ans.
+
+### 3. Structure de l’offre pédagogique
+
+La structure pédagogique demeure stable, avec 87 classes réparties comme suit : 8 en maternelle, 32 en élémentaire, 28 au collège et 18 au lycée. L’effectif 2025-2026 s’élève à 2 563 élèves, avec une projection à 2 570 pour 2026-2027. Le collège est à pleine capacité, avec notamment 33 élèves/classe au collège. Une classe à horaires aménagés en mathématiques et sciences (CHAMS - 2h par semaine) est prévue en 4e et 3e. Les dispositifs existants (chorale, LCA, cinéma-audiovisuel, section européenne) sont maintenus.
+
+Une question a été soulevée concernant la possibilité d’envisager l’enseignement de l’arabe parmi les langues étrangères proposées. 
+
+## 4. Offre parascolaire
+
+Un catalogue des activités parascolaires est mis à disposition en amont des inscriptions. L’offre est alignée avec le projet éducatif de l’établissement et couvre les domaines sportif, artistique, culturel et technologique. Elle comprend 69 (ou 52?) activités réparties en 162 groupes, dont 22 activités sportives (65 groupes), 19 activités en arts (67 groupes), 6 activités en musique (19 groupes) et 5 activités en science (11 groupes). Les activités à forte demande (multisports, technologie, magie) sont renforcées. Le sport compétitif se développe, notamment en volley-ball. Une plateforme sécurisée (« MonClubSportif ») est utilisée pour la communication avec les parents, plutôt que Whatsapp. Une Charte des Chevaliers est mise en place et appliquée et une « boutique des Chevaliers » est mise en place.
+
+Des réflexions sont engagées sur la valorisation des équipes féminines dont le nom des Chevaliers et sur les conditions d’accueil des élèves entre les cours et les activités.
+
+Plusieurs initiatives sont prévues, dont un festival arts et culture et les 10 ans de Stan Robotix (16 octobre). Des camps de jour et des partenariats, notamment avec l’Université Concordia, sont également développés.
+
+### 5. Mise à jour de la politique relative aux violences à caractère sexuel
+
+La politique est en cours de révision sans modification de fond. Les évolutions portent sur la gouvernance (direction générale) et la mise en place d’un guichet unique avec deux référents. Le recours à une firme externe est supprimé. Des actions de prévention et de sensibilisation sont prévues, incluant des formations, un concours d’affiches et la diffusion de supports pédagogiques. La politique devra être approuvée par les étudiants.
+
+### 6. Dynamique collaborative
+
+Une démarche visant à renforcer la collaboration entre la direction, la fondation, la corporation, la communauté éducative et les anciens élèves est engagée.
+
+
+### 7. Actualités AEFE
+
+Des décisions financières ont été prises lors du conseil d’administration de l’AEFE en décembre. Par ailleurs, une mission sénatoriale est en cours, portant sur la gouvernance et le financement du réseau.
+
+Le contexte financier est décrit comme contraint, notamment en lien avec les modalités de financement des personnels expatriés. Dans ce cadre, les établissements apparaissent en première ligne des équilibres budgétaires. Une présentation synthétique des mécanismes en jeu et de leurs évolutions pourrait contribuer à en faciliter la compréhension.
+
+### 8. Points divers
+
+Les ressortissants français atteignant 18 ans avant le 30 mai doivent mettre à jour leurs coordonnées avant le 24 afin de figurer sur les listes électorales.
+
+L’évolution du CCE vers un conseil d’établissement n’est pas à l’ordre du jour.
+
+Les bilans financiers détaillés ne sont pas accessibles à ce niveau. Une demande récurrente d’accès à une information plus complète est toutefois exprimée, tandis que l’établissement privilégie la diffusion d’éléments financiers agrégés.
+
+Concernant les absences au collège, les familles doivent informer l’établissement par courriel et l’élève doit présenter un justificatif (coupon rose) à son retour.
+
+
 
 
 ## 2026_02_05: Réunion CCE 
